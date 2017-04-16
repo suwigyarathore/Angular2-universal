@@ -9,7 +9,8 @@
  * 'home', 'about'
  * ];
  **/
-export const routes: string[] = [
+export var routes = [
     'home',
     'contact'
 ];
+//# sourceMappingURL=/Users/suwigyarathore/Documents/universal/myUnivApp/src/server.routes.js.map
